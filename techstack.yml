@@ -1,0 +1,42 @@
+repo_name: forgotten-boi/edbn
+report_id: f603d4b0e1094093a258fb52d74695b8
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T12:05:21+00:00'
+requested_by: dannyneil
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: MATLAB
+  description: A high-level language and interactive environment for numerical computation,
+    visualization, and programming
+  website_url: http://www.mathworks.com/products/matlab/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source_url: https://github.com/forgotten-boi/edbn
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/forgotten-boi/edbn
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/forgotten-boi/edbn
+  detection_source: Repo Metadata
